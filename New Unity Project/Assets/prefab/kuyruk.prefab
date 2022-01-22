@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8299447766213975800}
   - component: {fileID: 1269001856109620183}
   m_Layer: 0
-  m_Name: bas (1)
+  m_Name: kuyruk
   m_TagString: kuyruk
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -60,7 +60,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 58b66c67331c6b44385a7b7d430115df, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
